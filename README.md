@@ -1,4 +1,4 @@
-# ansible-aci
+# ansible-aci-ng
 
 The `ansible-aci` project provides an Ansible collection for managing and automating your Cisco ACI environment.
 It consists of a set of modules and roles for performing tasks related to ACI.
@@ -8,7 +8,8 @@ It consists of a set of modules and roles for performing tasks related to ACI.
 
 ## Requirements
 
-- Ansible v2.8 or newer
+- Ansible v2.9 or newer
+- APIC v4.2 or newer
 
 
 ## Use
