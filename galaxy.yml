@@ -2,9 +2,9 @@ namespace: cisco
 name: aci
 version: 0.0.5
 authors:
-- Dag Wieers (@dagwieers) <dag@wieers.com>
+- Devarshi Shah (@devarshishah3) <devarsha@cisco.com>
 
-description: An Ansible collection for managing Cisco ACI infrastructure
+description: A Next Gen  Ansible collection for managing Cisco ACI infrastructure
 license: GPL-3.0-or-later
 tags:
 - aci
@@ -15,8 +15,8 @@ tags:
 - sdn
 dependencies: {}
 
-#repository: https://github.com/datacenter/ansible-aci
+#repository: https://github.com/CiscoDevNet/ansible-aci-ng
 #documentation: https://docs.ansible.com/ansible/latest/scenario_guides/guide_aci.html
 #homepage: https://github.com/datacenter/ansible-aci/wiki
-#issues: https://github.com/datacenter/ansible-aci/issues
+#issues: https://github.com/CiscoDevNet/ansible-aci-ng/issues
 readme: README.md
